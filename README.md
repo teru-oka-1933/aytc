@@ -5,8 +5,7 @@
 Microsoft Silverlightで実装を行なっていたため，Legacyにしました．
 
 MIT ライセンスで公開を行なっています．
-こちらのURLをクリックして使用してください
 
-↓
+こちら↓のURLをクリックして使用してください
 
 https://teru-oka-1933.github.io/aytc/
